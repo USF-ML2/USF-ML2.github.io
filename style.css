@@ -267,7 +267,7 @@ ul.inline li a, ul.inline li a:active, ul.inline li a:visited{
 .content {
   margin: 0;
   padding: 15px 20px;
-  background-color: #ffffff;
+  background-color: #ffffe5; /*#ffffff;*/
   /*height: 100%;*/
 }
 .article-column { margin: 0; padding: 15px 0 5px 0; }
