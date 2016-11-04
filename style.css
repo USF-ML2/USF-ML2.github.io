@@ -35,12 +35,12 @@ h1, h2, h3, h4, h5 {
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, a.nolink,
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, a:hover.nolink {
-  color: #028900 !important;
+  color: #fee391 !important;
   text-decoration: none !important;
   border: none;
 }
 .title, .title a{
-  color: #6bb120; /*#21346B;*/
+  color: #d95f0e;
   font-size: 24pt;
   margin-bottom: 10px;
   margin-top: 5px;
